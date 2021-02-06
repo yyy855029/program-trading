@@ -36,9 +36,7 @@
 
 ![picture10](https://github.com/yyy855029/program_trading_practice/blob/master/%E9%85%8D%E5%B0%8D%E4%BA%A4%E6%98%93%E5%9B%9E%E6%B8%AC/Img/%E6%AF%8F%E6%9C%88%E7%8D%B2%E5%88%A9%E5%92%8C%E8%99%A7%E6%90%8D.png)  
 
-![picture11](https://github.com/yyy855029/program_trading_practice/blob/master/%E9%85%8D%E5%B0%8D%E4%BA%A4%E6%98%93%E5%9B%9E%E6%B8%AC/Img/%E6%AF%8F%E6%9C%88%E7%8D%B2%E5%88%A9%E5%92%8C%E8%99%A7%E6%90%8D.png)  
-
-![picture12](https://github.com/yyy855029/program_trading_practice/blob/master/%E9%85%8D%E5%B0%8D%E4%BA%A4%E6%98%93%E5%9B%9E%E6%B8%AC/Img/%E6%9C%80%E4%BD%B3%E5%8C%963D%E5%9C%96.png)
+![picture1](https://github.com/yyy855029/program_trading_practice/blob/master/%E9%85%8D%E5%B0%8D%E4%BA%A4%E6%98%93%E5%9B%9E%E6%B8%AC/Img/%E6%9C%80%E4%BD%B3%E5%8C%963D%E5%9C%96.png)
 ## 使用程式:
 Python
 
