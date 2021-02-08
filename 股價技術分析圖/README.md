@@ -2,8 +2,9 @@
 ## 使用程式:
 Python
 ## 呈現:
-### 每日報酬率:
-![picture1](https://github.com/yyy855029/program_trading_practice/blob/master/%E8%82%A1%E5%83%B9%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E5%9C%96/Img/%E6%AF%8F%E6%97%A5%E5%A0%B1%E9%85%AC%E7%8E%87.png)  
+### 每日報酬率折線圖:
+![picture1](https://github.com/yyy855029/program_trading_practice/blob/master/%E8%82%A1%E5%83%B9%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E5%9C%96/Img/%E6%AF%8F%E6%97%A5%E5%A0%B1%E9%85%AC%E7%8E%87.png)
+### 每日報酬率柱狀圖:
 ![picture2](https://github.com/yyy855029/program_trading_practice/blob/master/%E8%82%A1%E5%83%B9%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E5%9C%96/Img/%E5%A0%B1%E9%85%AC%E7%8E%87%E6%9F%B1%E7%8B%80%E5%9C%96.png)  
 ### 移動波動度:
 ![picture3](https://github.com/yyy855029/program_trading_practice/blob/master/%E8%82%A1%E5%83%B9%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90%E5%9C%96/Img/%E7%A7%BB%E5%8B%95%E6%B3%A2%E5%8B%95%E5%BA%A6.png) 
